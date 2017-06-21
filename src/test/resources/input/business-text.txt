@@ -1,0 +1,40 @@
+IBM and Cognos announced that the two companies have entered into a definitive agreement for IBM to acquire Cognos in an all-cash transaction at a price of approximately $5 billion USD or $58 USD per share, with a net transaction value of $4.9 billion USD." .  Cognos are long standing customers of IBM.
+
+anadian dollar declines; IBM bids US$5B for Canadian software maker Cognos" "Sympatico MSN Finance Nov 12 2007 8:31PM GMT" .
+
+"Canadian dollar declines; IBM bids US$5B for Canadian software maker Cognos" "Yahoo! Canada Nov 12 2007 5:45PM GMT" .
+
+"Canadian software maker Cognos to be taken over by IBM for US$5B" "Yahoo! Canada Nov 12 2007 5:45PM GMT" .
+
+"Canadian software maker Cognos to be taken over by IBM in deal worth US$5B" "Canoe Money Nov 12 2007 7:43PM GMT" .
+
+"Canadian software maker Cognos to be taken over by IBM in deal worth US$5B" "CBC Nov 12 2007 3:49PM GMT" .
+
+"Canadian software maker Cognos to be taken over by IBM in deal worth US$5B" "Moose Jaw Times-Herald Nov 12 2007 7:26PM GMT" .
+
+"Canadian software maker Cognos to be taken over by IBM in deal worth US$5B" "Yahoo! Canada Nov 12 2007 4:24PM GMT" .
+
+
+
+"An Oracle-BEA Combo: How It Will Affect You" "By acquiring BEA Software's wealth of large corporate customers and well-respected middleware products, Oracle would be second only to IBM in that key market. Oracle's Larry Ellison has long threatened to acquire BEA Systems, finally making an offer on October 12, 2007. Oracle's unsolicited bid, valued\u00A0..." .
+
+"An Oracle-BEA Combo: How It Will Affect You" "Oct 3, 2007: By acquiring BEA Software's wealth of large corporate customers and well-respected middleware products, Oracle would be second only to IBM in that key market. Oracle's Larry Ellison has long threatened to acquire BEA Systems, finally making an offer on October 12, 2007. Oracle's\u00A0..." .
+
+"An Oracle-BEA Combo: How It Will Affect You" "Oct 3, 2007: By acquiring BEA Software's wealth of large corporate customers and well-respected middleware products, Oracle would be second only to IBM in that key market. Oracle's Larry Ellison has long threatened to acquire BEA Systems, finally making an offer on October 12, 2007. Oracle's unsolicited bid, valued at slightly less than $6.7 billion and rejected by BEA's board, is likely the opening move in a contest for BEA. BEA's thousands of customers should start understanding their options now, with the assumption that if the acquisition succeeds, Oracle is likely to use both carrots and sticks to move them to its competing products." .
+
+An Oracle-BEA Combo: How It Will Affect You" "By acquiring BEA Software's wealth of large corporate customers and well-respected middleware products, Oracle would be second only to IBM in that key market. Oracle's Larry Ellison has long threatened to acquire BEA Systems, finally making an offer on October 12, 2007. Oracle's unsolicited bid, valued\u00A0..." .
+
+"An Oracle-BEA Combo: How It Will Affect You" "Oct 3, 2007: By acquiring BEA Software's wealth of large corporate customers and well-respected middleware products, Oracle would be second only to IBM in that key market. Oracle's Larry Ellison has long threatened to acquire BEA Systems, finally making an offer on October 12, 2007. Oracle's\u00A0..." .
+
+"An Oracle-BEA Combo: How It Will Affect You" "Oct 3, 2007: By ACQUIRING BEA Software's wealth of large corporate customers and well-respected middleware products, Oracle would be second only to IBM in that key market. Oracle's Larry Ellison has long threatened to acquire BEA Systems, finally making an offer on October 12, 2007. Oracle's unsolicited bid, valued at slightly less than $6.7 billion and rejected by BEA's board, is likely the opening move in a contest for BEA. BEA's thousands of customers should start understanding their options now, with the assumption that if the acquisition succeeds, Oracle is likely to use both carrots and sticks to move them to its competing products." .
+
+
+IBM said Monday in a statement that it has acquired Cognos for $5 billion, or $58 a share. In just a month the two leading business intelligence players have been acquired. SAP bought Business Objects last month and it was clear Cognos couldn�t stay solo too much longer. IBM said the Cognos deal is expected to close in the first quarter.
+
+Cognos brings a lot to Big Blue�s table. IBM can take Cognos and integrate it with its focus on information integration and content and data management. Naturally, IBM will pitch that lineup with its services group. Cognos, which is built on a services oriented architecture, also plays well with IBM�s SOA strategy.
+
+As for the technology buyer, you essentially have two big players now: SAP and IBM. And if you�re a financial wonk you have Oracle, which gobbled up Hyperion.
+
+Cognos CEO Rob Ashe will lead IBM�s Information Management Software division. Ashe will report to General Manager Ambuj Goyal.
+
+Cognos has a few interesting business intelligence applications on the drawing board, notably better plug-ins with Excel and a bevy of Web 2.0-ish modules.
