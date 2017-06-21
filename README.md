@@ -7,7 +7,7 @@ This application takes a list of paths to documents, annotates the documents wit
 1. Checkout this project with - `git clone git@github.com:benwatson528/gate-poc.git`
 2. Download the GATE installer from [Sourceforge](http://sourceforge.net/projects/gate/files/gate/8.4.1/gate-8.4.1-build5753-installer.jar/download)
 3. Move the GATE installer JAR to `src/main/resources` in this project
-4. Build the Docker container `docker build -t gate .`
+4. From inside `src/main/resources`, build the Docker container `docker build -t gate .`
 5. Run the test case within Docker `docker run -it -v ~/programming/coursera/gate-pipeline/:/code gate mvn clean test -Dgate.home=/usr/local/GATE_Developer_8.4.1`
 6. View the annotated output in the project's root directory: `StANNIE_1.HTML` and `StANNIE_toXML_1.HTML`
 
